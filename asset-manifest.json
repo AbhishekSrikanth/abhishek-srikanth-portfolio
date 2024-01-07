@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.css": "/abhishek-srikanth-portfolio/static/css/main.83908033.css",
-    "main.js": "/abhishek-srikanth-portfolio/static/js/main.df5dad24.js",
+    "main.css": "/abhishek-srikanth-portfolio/static/css/main.675c9d4c.css",
+    "main.js": "/abhishek-srikanth-portfolio/static/js/main.182b8b14.js",
     "static/media/Abhishek.png": "/abhishek-srikanth-portfolio/static/media/Abhishek.110458fb2beac1455eaa.png",
     "static/media/amrita_logo.jpg": "/abhishek-srikanth-portfolio/static/media/amrita_logo.05c2314b3d56e2e15de1.jpg",
     "static/media/icons8-jenkins.svg": "/abhishek-srikanth-portfolio/static/media/icons8-jenkins.cd4ee713b18345c1fe9d.svg",
+    "static/media/red-award.svg": "/abhishek-srikanth-portfolio/static/media/red-award.eb7a19cc6b77428d87fff79fca3d1d27.svg",
+    "static/media/blue-award.svg": "/abhishek-srikanth-portfolio/static/media/blue-award.ba28e80d1fef3a75300d2bc7d068e5db.svg",
+    "static/media/green-award.svg": "/abhishek-srikanth-portfolio/static/media/green-award.1200c830b005d9a6533566d4f0a6eb3f.svg",
     "static/media/icons8-django.svg": "/abhishek-srikanth-portfolio/static/media/icons8-django.7b1cc13d8d2f4289346c.svg",
     "static/media/icons8-docker.svg": "/abhishek-srikanth-portfolio/static/media/icons8-docker.c49ffb5c2e6d11bfae96.svg",
     "static/media/icons8-python.svg": "/abhishek-srikanth-portfolio/static/media/icons8-python.026a62687ef705a39cfc.svg",
@@ -14,11 +17,11 @@
     "static/media/icons8-html.svg": "/abhishek-srikanth-portfolio/static/media/icons8-html.c1bb84e022ca9d76984d.svg",
     "static/media/icons8-tensorflow.svg": "/abhishek-srikanth-portfolio/static/media/icons8-tensorflow.d978d6b0a450f5416ab4.svg",
     "static/media/icons8-gitlab.svg": "/abhishek-srikanth-portfolio/static/media/icons8-gitlab.c54dbd2d930a01103af9.svg",
-    "main.83908033.css.map": "/abhishek-srikanth-portfolio/static/css/main.83908033.css.map",
-    "main.df5dad24.js.map": "/abhishek-srikanth-portfolio/static/js/main.df5dad24.js.map"
+    "main.675c9d4c.css.map": "/abhishek-srikanth-portfolio/static/css/main.675c9d4c.css.map",
+    "main.182b8b14.js.map": "/abhishek-srikanth-portfolio/static/js/main.182b8b14.js.map"
   },
   "entrypoints": [
-    "static/css/main.83908033.css",
-    "static/js/main.df5dad24.js"
+    "static/css/main.675c9d4c.css",
+    "static/js/main.182b8b14.js"
   ]
 }
