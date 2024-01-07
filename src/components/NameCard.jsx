@@ -7,7 +7,7 @@ function NameCard() {
         <div className="text-center items-center m-auto">
             <img src={Abhishek} className="h-60 my-12 mx-auto rounded-full border-8 shadow-2xl border-white" alt="Abhishek.png"></img>
             <p className="mx-auto my-3 text-3xl text-black font-black">Abhishek Srikanth</p>
-            <p className="mx-auto text-md text-black">Computer Science Graduate Student</p>
+            <p className="mx-auto text-lg text-black">Computer Science Graduate Student</p>
             <p className="mx-auto text-md text-black">Purdue University</p>
             <p className="mx-auto my-2 text-sm text-gray-700">Ex-Full Stack Developer for Zmanda</p>
             <hr className="max-w-48 h-0.5 mx-auto my-4 bg-gray-300 border-0 rounded"></hr>
