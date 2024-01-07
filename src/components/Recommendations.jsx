@@ -17,7 +17,7 @@ function Recommendations() {
         <div className='h-full'>
             <div className='flex space-x-5 w-full justify-between h-5/6 px-10'>
                 <button
-                    className='bg-white p-2 rounded-full disabled:bg-gray-500 h-16 w-16 my-auto'
+                    className='bg-black text-white border-white border-2 p-2 rounded-full disabled:bg-black disabled:border-gray-500 disabled:text-gray-500 h-16 w-16 my-auto hover:text-black hover:bg-white'
                     onClick={() => { modifyCurrentRecommendation(-1) }}
                     disabled={currentRecommendation === 0}
                 >
@@ -37,7 +37,7 @@ function Recommendations() {
                     <p className='text-sm'>{recommendations[currentRecommendation].text}</p>
                 </div>
                 <button
-                    className='bg-white p-2 rounded-full disabled:bg-gray-500 h-16 w-16 my-auto'
+                    className='bg-black text-white border-white border-2 p-2 rounded-full disabled:bg-black disabled:border-gray-500 disabled:text-gray-500 h-16 w-16 my-auto hover:text-black hover:bg-white'
                     onClick={() => { modifyCurrentRecommendation(1) }}
                     disabled={currentRecommendation === recommendations.length - 1}
                 >
