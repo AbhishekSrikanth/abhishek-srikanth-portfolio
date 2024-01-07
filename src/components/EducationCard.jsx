@@ -5,7 +5,7 @@ function EducationCard ({ institution, gpa, degree, location, timeperiod, total_
             <div className="mb-5">
                 <p className="font-black text-xl">{institution}</p>
                 <p className="font-thin text-sm">{location}</p>
-                <p className="font-thin text-sm">{timeperiod}</p>
+                <p className="font-light text-sm">{timeperiod}</p>
             </div>
             <div>
                 <p className="font-bold">{degree}</p>

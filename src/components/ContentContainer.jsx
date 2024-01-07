@@ -4,6 +4,7 @@ import Skills from "./Skills";
 import Education from "./Education";
 import UnderConstruction from "./UnderConstruction";
 import Awards from "./Awards";
+import Recommendations from "./Recommendations";
 
 function ContentContainer ({ currentContent }) {
 
@@ -12,7 +13,7 @@ function ContentContainer ({ currentContent }) {
         "Skills": <Skills/>,
         "Projects": <UnderConstruction/>,
         "Experience": <Experience/>,
-        "Recommendations": <UnderConstruction/>,
+        "Recommendations": <Recommendations/>,
         "Awards": <Awards/>,
         "Education": <Education/>
     }

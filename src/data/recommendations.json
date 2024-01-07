@@ -1,0 +1,38 @@
+[
+    {
+        "author": "Chandra Ravipati",
+        "text": "Abhishek is one of the sharpest young engineers I worked with. He has very sharp mind, a superb attitude and great work ethic. He took on the responsibility of packaging and build management for our flagship product. In addition to streamlining the packaging code, he actually developed knowledge of the individual modules better than the developers working on those modules. He moved on to do his masters. I would be happy to hire him back when he is ready to come back. I highly recommend him. ",
+        "relation": "Senior but didn't manage directly",
+        "position": "Vice President of Engineering at BETSOL"
+    },
+    {
+        "author": "Federico Vovard",
+        "text": "Worked with Abhishek for a year and a half. Nothing but great things. Performing amazingly on his dev work, moving into new areas where the team/company needed help, and putting out \"fires\" became business as usual for him. Extremely dependable individual, and also nurturing people joining the team. Working with him made my life easier, would welcome him back with open arms if I had the chance.",
+        "relation": "Senior but didn't manage directly",
+        "position": "Product Management"
+    },
+    {
+        "author": "Boopathi Venkatasamy Krishna",
+        "text": "In a remarkably brief span of time, Abhishek swiftly evolved into an indispensable element of Betsol's product development. Whether in the capacity of an individual contributor or a team leader, he consistently demonstrated flexibility, organization, technical excellence, and unwavering dedication. I am confident that he will continue to carry these qualities forward in his career. Abhishek's contributions to the team have been exceptional, characterized by the consistent delivery of top-tier products and a steadfast commitment to upholding the highest standards of quality. His punctuality in meeting deadlines has proven invaluable, assisting the team in adhering to our product delivery schedule. The team and the management deeply value his significant input. I seize this opportunity to recognize his unwavering commitment and extend my gratitude for his consistent delivery of excellence. Abhishek, your dedication is commendable - keep up the exceptional work! and good luck.",
+        "relation": "Managed directly",
+        "position": "Development Manager at BETSOL"
+    },
+    {
+        "author": "Aneesh Nireshwalia",
+        "text": "Abhishek joined us as a fresher and throughout his time with the company he's been one of the top contributors in our team. He has a strong grasp on open source development and has guided our team on the best practices and processes for OSS development. He is extremely knowledgeable in devops processes and singlehandedly managed multiple challenging tasks in that area for our project. His passion and commitment to excellence was always a source of inspiration for me and for the team. We worked together on some critical customer issues and his contributions were quintessential for getting the fixes done in time. He proactively worked on multiple areas even outside his primary job roles. Apart from his technical ingenuity, he is also one of most charismatic and pleasant people I've had the pleasure of working with. I would highly recommend him to any company that values technical excellence and proficiency and would love to get the chance to cross paths with him again!",
+        "position": "Technical Architect at BETSOL",
+        "relation": "Senior but didn't manage directly"
+    },
+    {
+        "author": "Felix L",
+        "text": "I has been working a couple of years with Abhishek and I can tell he is an amazing collaborator, always giving the best, going beyond, and facing several challenges with tight due dates but with an excellent actitud and energy!!! I definitely want him in my team!!!",
+        "position": "Cybersecurity Architect & Security Engineer",
+        "relation":"Senior but didn't manage directly"
+    },
+    {
+        "author": "Utkarsh Jain",
+        "text": "I had the pleasure of working with Abhishek at BETSOL, and I can confidently say that he is one of the most talented and dedicated software engineers I have had the pleasure of working with. As his mentor, team lead, and reporting manager, I have had the opportunity to witness his exceptional work firsthand. He is an intelligent, talented, and quick-learning individual who does not require supervision to excel at his work. He has a natural ability to figure things out on his own and is always eager to take on new challenges. His sincere and humble nature make him a pleasure to work with, and his positive attitude and fun-loving personality make him great to hang out with. He has tremendous potential and is always striving to improve himself. I have no doubt that he will continue to excel in his career as a software engineer and make significant contributions to any organization lucky enough to have him on their team.",
+        "position": "Product Management",
+        "relation":"Managed directly"
+    }
+]
