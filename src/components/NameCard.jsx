@@ -1,5 +1,4 @@
 import Abhishek from '../assets/Abhishek.png'
-// import './NameCard.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 function NameCard() {
