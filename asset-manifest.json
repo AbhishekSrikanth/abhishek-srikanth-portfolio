@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/abhishek-srikanth-portfolio/static/css/main.d5907584.css",
-    "main.js": "/abhishek-srikanth-portfolio/static/js/main.b2f2b6af.js",
+    "main.js": "/abhishek-srikanth-portfolio/static/js/main.c6d32259.js",
     "static/media/Abhishek.png": "/abhishek-srikanth-portfolio/static/media/Abhishek.110458fb2beac1455eaa.png",
     "static/media/amrita_logo.jpg": "/abhishek-srikanth-portfolio/static/media/amrita_logo.05c2314b3d56e2e15de1.jpg",
     "static/media/icons8-jenkins.svg": "/abhishek-srikanth-portfolio/static/media/icons8-jenkins.cd4ee713b18345c1fe9d.svg",
@@ -18,10 +18,10 @@
     "static/media/icons8-tensorflow.svg": "/abhishek-srikanth-portfolio/static/media/icons8-tensorflow.d978d6b0a450f5416ab4.svg",
     "static/media/icons8-gitlab.svg": "/abhishek-srikanth-portfolio/static/media/icons8-gitlab.c54dbd2d930a01103af9.svg",
     "main.d5907584.css.map": "/abhishek-srikanth-portfolio/static/css/main.d5907584.css.map",
-    "main.b2f2b6af.js.map": "/abhishek-srikanth-portfolio/static/js/main.b2f2b6af.js.map"
+    "main.c6d32259.js.map": "/abhishek-srikanth-portfolio/static/js/main.c6d32259.js.map"
   },
   "entrypoints": [
     "static/css/main.d5907584.css",
-    "static/js/main.b2f2b6af.js"
+    "static/js/main.c6d32259.js"
   ]
 }
