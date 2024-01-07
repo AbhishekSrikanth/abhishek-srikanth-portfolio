@@ -2,16 +2,17 @@ import About from "./About";
 import Experience from "./Experience";
 import Skills from "./Skills";
 import Education from "./Education";
+import UnderConstruction from "./UnderConstruction";
 
 function ContentContainer ({ currentContent }) {
 
     const componentMap = {
         "Home": <About/>,
         "Skills": <Skills/>,
-        "Projects": <About/>,
+        "Projects": <UnderConstruction/>,
         "Experience": <Experience/>,
-        "Recommendations": <About/>,
-        "Awards": <About/>,
+        "Recommendations": <UnderConstruction/>,
+        "Awards": <UnderConstruction/>,
         "Education": <Education/>
     }
 
