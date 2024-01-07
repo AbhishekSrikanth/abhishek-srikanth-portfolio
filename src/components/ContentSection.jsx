@@ -4,7 +4,7 @@ import NavBar from "./NavBar";
 
 function ContentSection () {
 
-    const [currentPage, setCurrentPage] = useState('Experience');
+    const [currentPage, setCurrentPage] = useState('Home');
 
     return (
         <div className="w-4/6 bg-black h-screen flex-col">
