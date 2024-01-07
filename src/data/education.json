@@ -1,0 +1,20 @@
+[
+    {
+        "institution": "Amrita Vishwa Vidyapeetham",
+        "degree": "B.Tech Computer Science and Engineering",
+        "gpa": 8.2,
+        "total_gpa": 10.0,
+        "location": "Coimbatore, Tamil Nadu, India",
+        "timeperiod": "July 2017 - June 2021",        
+        "logo": "amrita_logo.jpg"
+    },
+    {
+        "institution": "Purdue University",
+        "degree": "Masters in Science Computer Science",
+        "gpa": 4.0,
+        "total_gpa": 4.0,
+        "location": "Fort Wayne, Indiana, USA",
+        "timeperiod": "August 2023 - May 2025",
+        "logo": "Purdue_logo.svg"
+    }
+]
