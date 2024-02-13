@@ -19,7 +19,7 @@ function ContentContainer ({ currentContent }) {
     }
 
     return (
-        <div className="h-4/6 flex m-5 overflow-scroll">
+        <div className="h-[83.33%] flex m-5 overflow-auto">
             {componentMap[currentContent]}
         </div>
     );
