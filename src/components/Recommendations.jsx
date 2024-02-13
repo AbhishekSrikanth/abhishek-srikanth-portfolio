@@ -23,7 +23,7 @@ function Recommendations() {
                 >
                     <FontAwesomeIcon icon="fa-solid fa-arrow-left" />
                 </button>
-                <div className='bg-white p-7 rounded-lg w-3/4 h-full overflow-scroll'>
+                <div className='bg-white p-7 rounded-lg w-3/4 h-full overflow-auto'>
                     <div className='flex justify-between'>
                         <div className='mb-4'>
                             <div>
