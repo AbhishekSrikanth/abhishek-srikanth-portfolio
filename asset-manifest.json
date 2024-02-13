@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/abhishek-srikanth-portfolio/static/css/main.60cb5687.css",
-    "main.js": "/abhishek-srikanth-portfolio/static/js/main.319272e6.js",
+    "main.css": "/abhishek-srikanth-portfolio/static/css/main.043c5783.css",
+    "main.js": "/abhishek-srikanth-portfolio/static/js/main.a575d3b7.js",
     "static/media/Abhishek.png": "/abhishek-srikanth-portfolio/static/media/Abhishek.110458fb2beac1455eaa.png",
     "static/media/amrita_logo.jpg": "/abhishek-srikanth-portfolio/static/media/amrita_logo.05c2314b3d56e2e15de1.jpg",
     "static/media/icons8-jenkins.svg": "/abhishek-srikanth-portfolio/static/media/icons8-jenkins.cd4ee713b18345c1fe9d.svg",
@@ -17,11 +17,11 @@
     "static/media/icons8-html.svg": "/abhishek-srikanth-portfolio/static/media/icons8-html.c1bb84e022ca9d76984d.svg",
     "static/media/icons8-tensorflow.svg": "/abhishek-srikanth-portfolio/static/media/icons8-tensorflow.d978d6b0a450f5416ab4.svg",
     "static/media/icons8-gitlab.svg": "/abhishek-srikanth-portfolio/static/media/icons8-gitlab.c54dbd2d930a01103af9.svg",
-    "main.60cb5687.css.map": "/abhishek-srikanth-portfolio/static/css/main.60cb5687.css.map",
-    "main.319272e6.js.map": "/abhishek-srikanth-portfolio/static/js/main.319272e6.js.map"
+    "main.043c5783.css.map": "/abhishek-srikanth-portfolio/static/css/main.043c5783.css.map",
+    "main.a575d3b7.js.map": "/abhishek-srikanth-portfolio/static/js/main.a575d3b7.js.map"
   },
   "entrypoints": [
-    "static/css/main.60cb5687.css",
-    "static/js/main.319272e6.js"
+    "static/css/main.043c5783.css",
+    "static/js/main.a575d3b7.js"
   ]
 }
